@@ -51,7 +51,7 @@ function Main() {
 
                     </div>
                     <div className="main_image">
-                        <img src="/image/shoes.png" alt="Nike Shoes" className="img-fluid" />
+                        <img src="image/shoes.png" alt="Nike Shoes" className="img-fluid" />
                     </div>
                 </div>
             </section>
