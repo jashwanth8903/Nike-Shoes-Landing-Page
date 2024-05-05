@@ -16,11 +16,6 @@ function App() {
       <Services/>
       <Login/>
       <Footer/>
-      {/*<About/>
-      
-      
-      
-       */}
     </div>
   );
 }
