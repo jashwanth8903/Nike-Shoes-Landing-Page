@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/PRODIGY_WD_01/static/css/main.3184457b.css",
-    "main.js": "/PRODIGY_WD_01/static/js/main.62176b3b.js",
-    "static/js/453.a4c32a7c.chunk.js": "/PRODIGY_WD_01/static/js/453.a4c32a7c.chunk.js",
-    "static/media/loging_bg.png": "/PRODIGY_WD_01/static/media/loging_bg.af864304b5b91ade9d71.png",
-    "static/media/bg1.png": "/PRODIGY_WD_01/static/media/bg1.34a0104c2a12e713dfcf.png",
-    "index.html": "/PRODIGY_WD_01/index.html",
-    "main.3184457b.css.map": "/PRODIGY_WD_01/static/css/main.3184457b.css.map",
-    "main.62176b3b.js.map": "/PRODIGY_WD_01/static/js/main.62176b3b.js.map",
-    "453.a4c32a7c.chunk.js.map": "/PRODIGY_WD_01/static/js/453.a4c32a7c.chunk.js.map"
+    "main.css": "/Nike-Shoes-Landing-Page/static/css/main.8bb2ac6d.css",
+    "main.js": "/Nike-Shoes-Landing-Page/static/js/main.9bd4cca9.js",
+    "static/js/453.a4c32a7c.chunk.js": "/Nike-Shoes-Landing-Page/static/js/453.a4c32a7c.chunk.js",
+    "static/media/loging_bg.png": "/Nike-Shoes-Landing-Page/static/media/loging_bg.af864304b5b91ade9d71.png",
+    "static/media/bg1.png": "/Nike-Shoes-Landing-Page/static/media/bg1.34a0104c2a12e713dfcf.png",
+    "index.html": "/Nike-Shoes-Landing-Page/index.html",
+    "main.8bb2ac6d.css.map": "/Nike-Shoes-Landing-Page/static/css/main.8bb2ac6d.css.map",
+    "main.9bd4cca9.js.map": "/Nike-Shoes-Landing-Page/static/js/main.9bd4cca9.js.map",
+    "453.a4c32a7c.chunk.js.map": "/Nike-Shoes-Landing-Page/static/js/453.a4c32a7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3184457b.css",
-    "static/js/main.62176b3b.js"
+    "static/css/main.8bb2ac6d.css",
+    "static/js/main.9bd4cca9.js"
   ]
 }
