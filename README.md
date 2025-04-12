@@ -8,7 +8,7 @@ It highlights Nike shoes with stylish components and is great for portfolios, fr
 
 ## 📸 Demo
 
-[![Nike Shoes Landing Page Demo](https://img.shields.io/badge/View-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://your-demo-link.com)
+[[Nike Shoes Landing Page Demo]](https://jashwanth8903.github.io/Nike-Shoes-Landing-Page/)
 
 ---
 
